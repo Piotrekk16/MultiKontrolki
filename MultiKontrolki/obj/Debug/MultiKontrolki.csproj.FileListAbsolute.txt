@@ -1,0 +1,13 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\bin\Debug\MultiKontrolki.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MainWindow.baml
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MainWindow.g.cs
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\App.g.cs
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki_MarkupCompile.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.g.resources
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\bin\Debug\MultiKontrolki.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\bin\Debug\MultiKontrolki.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\MultiKontrolki\MultiKontrolki\obj\Debug\MultiKontrolki.pdb
